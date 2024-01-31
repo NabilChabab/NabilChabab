@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **Online Store**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Vue Js**
 
-- 💬 Ask me about **Android , Flutter , HTML , CSS , JS**
+- 💬 Ask me about **Android , Flutter , HTML , CSS , JS , PHP , LARAVEL**
 
 - 📫 How to reach me **nabil.chababnabil@gmail.com**
 
