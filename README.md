@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **nabil.chababnabil@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/NIGGA%20BABY/Downloads/Nabil%20CHABAB%20CV%20FV.pdf](file:///C:/Users/NIGGA%20BABY/Downloads/Nabil%20CHABAB%20CV%20FV.pdf)
+- 📄 Know about my experiences https://nabilchabab.github.io/Portfolio/
 
 - ⚡ Fun fact **I'm Funny**
 
